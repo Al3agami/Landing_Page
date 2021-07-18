@@ -196,7 +196,7 @@ document.addEventListener('DOMContentLoaded', function() {
         setTimeout(() => {
             document.querySelectorAll('.active_nav').length > 0 ?
                 document.querySelector('.page__header').classList.add('hidden__nav') :
-                document.querySelector('.page__header').classList.remove('hidden__nav');
+                undefined;
             autoLoopToToggleNavmenu();
         }, 5000);
     }

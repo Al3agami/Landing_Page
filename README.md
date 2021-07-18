@@ -26,7 +26,7 @@ This a Landing Page website that shows some responsive animations that happens b
 
 3. This web page is compatible with small screen sizes, where the nav menu shrinks to adapt the available size of the screen, by performing a menu button to shows the nav menu content.
 
-4. A floating button appears in the bottom left side of the page whenever the user scroll to bottom to allow the user to back to the top of the page without needing to re-scroll up.
+4. A floating button appears in the bottom left side of the page whenever the user scroll to bottom to allow the user to back to the top of the page without need to re-scroll up.
 
 ## Resources
 - fonts.googleapis.com : to apply some font styles to the page text.
