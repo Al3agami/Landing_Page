@@ -15,7 +15,7 @@ This a Landing Page website that shows some responsive animations that happens b
 
 
 ## Technologies
-- HTML: used to structure the sketlon of the web page, the contained elements and data.
+- HTML: used to structure the skelton of the web page, the contained elements and data.
 - CSS: to apply some appearance styles, such as elements colors, sizes and positions.
 - JavaScript: to apply some user interactions with the website by performing some actions by either user clicks or scrolling through the page to make the page responsive.
 
