@@ -21,8 +21,11 @@ This a Landing Page website that shows some responsive animations that happens b
 
 ## Functionalities
 1. A navigation menu dynamically created based on the number of sections contained in the page, which is responsive with user clicking to animate smoothly the view port to the target selection section in the page.
+
 2. As the user select a section from nav menu or by scrolling to the section, some styles applied to this section in the web page and the section item in the nav menu also to shows the user where he/she is in the webpage.
+
 3. This web page is compatible with small screen sizes, where the nav menu shrinks to adapt the available size of the screen, by performing a menu button to shows the nav menu content.
+
 4. A floating button appears in the bottom left side of the page whenever the user scroll to bottom to allow the user to back to the top of the page without needing to re-scroll up.
 
 ## Resources
